@@ -1,0 +1,20 @@
+/* Stylesheet for display products page */
+.card {
+    margin: 10px;
+    position: relative;
+  }
+  
+  .product-img {
+    height: 50%;
+    width: 800px;
+    object-fit: cover;
+    display: flex;
+  }
+
+  .no-products-div {
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+  }
+  
